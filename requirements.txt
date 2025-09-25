@@ -1,4 +1,13 @@
 plotly
 folium
 koreanize_matplotlib
-sstreamlit-folium
+streamlit-folium
+
+streamlit 
+pandas
+yfinance
+plotly.express
+datetime
+timedelta
+
+
